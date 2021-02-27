@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>A页面</title>
+</head>
+<body>
+    <form action="bpage.jsp" method="post">
+        你喜欢哪些语言：
+        <br><input type="checkbox" name="c1" value="Java"/>Java
+        <br><input type="checkbox" checked name="c1" value="Python"/>Python
+        <br><input type="checkbox" name="c1" value="HTML"/>HTML
+        <hr>
+        请选择你喜欢的计算机编程语言:
+        <select multiple size="4" name="selectedlang">
+            <option value="1">Java</option>
+            <option value="2" selected>Python</option>
+            <option value="3" selected>HTML</option>
+            <option value="4">C++</option>
+        </select>
+        <hr>
+        用户名：<input type="text" name="username">
+        <hr>
+        <input type="submit">
+    </form>
+</body>
+</html>

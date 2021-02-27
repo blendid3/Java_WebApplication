@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib29">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/6.4/WebProj/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/6.4/WebProj/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/6.4/WebProj/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/6.4/WebProj/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/6.4/WebProj/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/6.4/WebProj/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/6.4/WebProj/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/6.4/WebProj/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/6.4/WebProj/lib/javax.servlet.jsp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
